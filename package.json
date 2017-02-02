@@ -1,0 +1,16 @@
+{
+  "name": "ipsthemes-credit-api",
+  "version": "0.0.1",
+  "description": "Small node API that returns total credit from the IPS Marketplace and a Wordpress EDD installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tom Christian",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
+}
