@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.16.0",
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "ips-credit-scraper": "0.0.1"
   }
 }
